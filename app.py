@@ -158,10 +158,10 @@ async def main_async():
 
         # Example queries
         queries = [
-            ("What is EV?", "naive"),
-            ("How is the market of EV in 2024 in Australia?", "local"),
-            ("How is the New Vehicle Efficiency Standards in Australia?", "global"),
-            ("How is the regulatory environment of EV in Australia?", "hybrid")
+            ("What are the top themes in this story?", "naive"),
+            ("What are the top themes in this story?", "local"),
+            ("What are the top themes in this story?", "global"),
+            ("What are the top themes in this story?", "hybrid")
         ]
 
         for query, mode in queries:
