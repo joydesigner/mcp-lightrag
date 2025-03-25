@@ -1,3 +1,5 @@
+# Blog on this project
+https://daybreak.hashnode.dev/mcp-server-setup-part-1-building-a-local-rag-with-deepseek-for-enhanced-security-and-compliance
 # Multi-Contextual Processing (MCP) Server
 
 This repository contains a Multi-Contextual Processing (MCP) server implementation that uses the DeepSeek-R1 model for processing and querying documents using a RAG framework - lightRAG, it can manipulate both text and PDF files. The server supports multiple query modes and provides a RESTful API interface.
